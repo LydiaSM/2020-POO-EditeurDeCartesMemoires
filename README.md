@@ -9,7 +9,7 @@ fichiers texte contenant la question et la réponse. Les carte-mémoires sont g�
 regroupées par paquets. Les cartes mémoires étant des fichiers texte,
 les paquets seront simplement des répertoires dans lesquels seront enregistrés
 les cartes-mémoires. Les fonctionnalités de l’éditeur seront donc les suivantes :
-— Créer / Supprimer un paquet
-— Parcourir les cartes-mémoires d’un paquet.
-— Lors du parcours d’un paquet, l’interface graphique permettra d’ajouter
+- Créer / Supprimer un paquet
+- Parcourir les cartes-mémoires d’un paquet.
+- Lors du parcours d’un paquet, l’interface graphique permettra d’ajouter
 / de modifier / de retirer une carte mémoire.
